@@ -1,0 +1,22 @@
+h1 ,h2 {
+    background-color: #fff;
+    border-bottom: black;
+
+}
+img{
+    width: 700px;
+    height: auto;
+}
+a{
+    color: lightblue;
+    font-weight: bold;
+    font-size: 30px;
+    
+}
+body{
+    text-align: center;
+
+}
+li{
+    border-left:700px ;
+}
